@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons shewing that the desires of the cloathiers, and vvoollen manufacturers of England expressed long since in their petition presented to the Parliament (against ingrossing and transporting of wooll and fullers-earth, and that none might use it, but those that make it into manufactures) will not be prejudiciall to the grower; but greatly beneficiall to the generall trade of the whole nation.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29111</idno><idno type="EEBO-CITATION">99885726</idno>
+  <idno type="VID">185551</idno>
+  <idno type="EEBO-PROQUEST">2248535018</idno>
+  
+            <idno type="STC">Wing R2165</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[98]</idno>
+            <idno type="STC">ESTC R224887</idno>
+            <idno type="PROQUEST">ocm99885726</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885726e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185551)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[98])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons shewing that the desires of the cloathiers, and vvoollen manufacturers of England expressed long since in their petition presented to the Parliament (against ingrossing and transporting of wooll and fullers-earth, and that none might use it, but those that make it into manufactures) will not be prejudiciall to the grower; but greatly beneficiall to the generall trade of the whole nation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: By Edmond Rozer in the behalfe of the clothiers of England. February the first. 1648.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Ms. text on verso: "&amp; ... manufacture ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clothing trade --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185551:1"/>
+            <pb facs="tcp:185551:1"/>
+            <head>Reasons shewing that the desires of the Cloathiers, and VVoollen Manufacturers of ENGLAND expressed long since in their Petition presented to the Parliament (against Ingrossing and Transporting of <hi>Wooll</hi> and <hi>Fullers-Earth,</hi> and that none might use it, but those that make it into Manufactures) will not be prejudiciall to the Grower; but greatly beneficiall to the generall Trade of the whole Nation.</head>
+            <list>
+               <item>1.<note place="margin">Witnesse Spanish and Irish Wooll, imployed in this Nation.</note> TO begin with the Growers, Whereas the Wooll of the growth of <hi>England,</hi> is not sufficient to maintain the severall Manufacturers that are imployed about Wooll in <hi>England,</hi> as Cloathiers, Bay-makers, Saymakers, Serge-makers, Cottons, Freezes, Penistones, Purpetuanaes, Stuffes of <hi>Norwich</hi> of all sorts, &amp;c. Therefore seeing all must be used by them, the Grower may sell all unlimited to price or time.</item>
+               <item>2. The Cloathiers aforesaid, are constrained to buy the greatest part of their Wooll, at or about shear time, when the poor Growers (if any there be) want mony. And that by reason of the Summer time, to get their Wooll home, to dye it, and dry it, for the Winter imployment, for the poor which they imploy about it. To which end (when they sell for time) they so order it, as to have their mony due at shear time; which debts when they cannot receive, they procure mony upon their credit, or their goods by pawn.</item>
+               <item>3. If the Cloathiers aforesaid must use all the Wooll, then the Ingrosers would not by Wooll, except to sell to the Cloathiers for great profit, or to transport it.</item>
+               <item>4. The Ingrossers or forestallers do hinder the Cloathiers from going to the Grower, by reason they go before the Market, and prevent the Cloathiers comming there.</item>
+               <item>5. The more the Wooll is imployed into severall Manufactures, the greater price will be to the Grower; but if the Wooll be forstalled, or ingrossed, it wil hinder greatly the trade of all the Manufacturers, and so the losse redownds to the Grower.</item>
+               <item>6. From experience, when for sixty years and above, the Cloathiers only had the sole buying of Wooll, they gave as good a price to the Grower, if not better, then since the Stapler, or Jobber had liberty to buy, till these distracted times.</item>
+               <item>7. We hope the Growers, though many and great, do not so desire their own profits, as thereby to prejudice the generall trade of this Nation; for so much Wooll as costs the Cloathiers 12 l. of the Growers, will cost them 16 l. more at least, to make it into a Manufacture fit to be sold in the Market.</item>
+               <item>Lastly, As for the fear of a Monopoly by the Cloathiers, it is impossible, by reason of their multitude, and great distance one from another, through the whole Nation. They never were, or ever can be, in a society or corporation as the Staplers are; and therefore can never agree to ingrosse Wooll, or hinder the Grower of his price. The reason is, if one will not buy, another will.</item>
+            </list>
+            <list>
+               <head>That the Woollen Manufacturers having the sole buying of Wooll, tends exceedingly much to the Nations good.</head>
+               <item>1. THis is, and must be taken for granted, as the foundation of the work, That all the wooll that growes in <hi>England,</hi> and more, witnesse, <hi>Spanish,</hi> and <hi>Irish,</hi> and Cotton Woolls, is and might be spent, or used in severall Wool<g ref="char:EOLhyphen"/>len Manufactures in this Nation; as Cloth, Bayes, Sayes, Serges, Purpetua<g ref="char:EOLhyphen"/>naes, Stuffes of severall sorts, Freezes, Cottons, Caps, Garters, Gloves, Stock<g ref="char:EOLhyphen"/>ings, &amp;c.</item>
+               <item>2. The vending of the aforesaid Manufactures beyond the Seas, is it that causeth so much and so many of the Manufactures, to be made in this Nation, which were heretofore made in other Countries.</item>
+               <item>3. The cheapnesse or reasonablenesse, of the prizes; and goodnesse of the Commodity at the Market: is that which causeth so many of our woollen Commodities, to sell beyond Seas, before other Countries.</item>
+               <item>4. The many hundred Thousands of people that are imployed in making the aforesaid Commodities, doth cause such great quantities of goods, that are brought home in return of our <hi>English</hi> Commodity; to be spent in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> And doth furnish Merchants, with all manner of goods, to trade with all Nations abroad. As (for one particular) the Silk that comes in return of Cloth, doth imploy many Thousands, in making all manner of silken Com<g ref="char:EOLhyphen"/>modities, as <hi>Velvets, Plushes, Sattens, Grograms, Lace,</hi> &amp;c. which by reason of Trade, are used much in this Nation. Likewise all sorts of <hi>Spices, Fruits, Furres. Sugers, Wines, dying stuffe of all kinds, Hemp, Flax, Pitch, Tarre, Pot<g ref="char:EOLhyphen"/>ashes, Cordage,</hi> with many other things; nay, we may say, <hi>even gold and silver,</hi> all which are used in this Nation, by reason of the Woollen Trade.</item>
+               <item>5. The poor of the Nation, will, or may be governed, and kept from stealing if they have work. But if they want work, their necessities and idle<g ref="char:EOLhyphen"/>nesse, doth often occasion Rebellion and theft, with many other evills, as day<g ref="char:EOLhyphen"/>ly experience proveth.</item>
+               <item>6. It is the great and chief cause of so much shipping in this Nation. And so many thousands of Marriners to be imployed about it. And likewise of so much Customs to be paid in this Nation, to defray all the charge of them. All which are the walles and strength of <hi>England.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>But that which chiefely, and especially, doth prejudice and destroy, that rich and precious life of Trade in this Nation, is Ingrossing and Transporting of <hi>Wooll</hi> and <hi>Fullers Earth.</hi>
+               </hi>
+            </p>
+            <list>
+               <item>1. FOr the <hi>Ingrossers, Jobbers,</hi> and <hi>Broggers,</hi> doe goe between the bark and the Tree; between the <hi>Growers</hi> and the <hi>Manufacturers,;</hi> and ingross the greatest part of the <hi>Wooll,</hi> and makes it so deare to the Clothiers, that they cannot live upon their Trades, and maintaine the poore with work, nor bring their goods to the Market at reasonable rates, so that the Merchants may carry them Cheap to their Markets beyond Seas, because other Countries can afford cheaper then we, which is the maine hinderance to the trade of <hi>England,</hi>
+               </item>
+               <item>2. The <hi>Ingrossers</hi> doe usually abuse and corrupt the <hi>Wooll,</hi> when they have it in their hands, and mix severall Countries Woolls together, which deceives the Clothiers; causeth much false and bad Cloth to be made in <hi>England,</hi> and consequently bringeth our <hi>English</hi> Commodity and Nation to be out of Cre<g ref="char:EOLhyphen"/>dit and esteeme in other Countries, which destroies the Trade of <hi>England.</hi> Their corrupting and abusing of Wooll, hath been fully proved before a Committee of Parliament.</item>
+               <item>3. When the <hi>Ingrossers</hi> cannot have unreasonable prizes for their Wooll, of the <hi>Clothiers,</hi> or the <hi>Manufacturers;</hi> they will, and doe Transport it beyond Seas, and there its made into Manufactures, and causeth many Workmen to goe from hence, to be imployed there; which doth, nay, hath already, al<g ref="char:EOLhyphen"/>most lost the Trade of this once flourishing Nation.</item>
+               <item>4. It occasions much <hi>Fullers Earth</hi> to be Transported to other Parts; both which heretofore were restrained by Law, and judged destructive to the Nation; but now frequently practised and connived at, by many Covetous Wretches and Enemies to their Countrey. It was a Principle that ruled in the mindes and hearts of Parliament men, in <hi>Edward</hi> the sixth dayes, that the plenty of Wooll in <hi>England,</hi> should and ought to cause the cheapness of Com<g ref="char:EOLhyphen"/>modities made of it; and thereupon did forbid any to buy, but those that made it into Manufactures.</item>
+            </list>
+            <p>They would not feed the greedy covetous mindes of some men; but pre<g ref="char:EOLhyphen"/>ferred the common good before all.</p>
+            <p>
+               <hi>But if it be objected to savour of a Monopoly.</hi>
+               <list>
+                  <item>1. Something hath been said to it, in the close of our reasons for the <hi>Wooll-Grower:</hi> yet more particularly in Answer to this Objection; by dis<g ref="char:EOLhyphen"/>covering the nature and being of a <hi>Monopoly;</hi> which is, when one, or some few men, Doe ingrosse into their owne hands a generall Commodity of the Nation, to the prejudice of all the rest of the Common wealth, which are concerned in it; as in <hi>Sope</hi> and <hi>Salt</hi> of late; and so of any other generall Commodity whatsoever.</item>
+                  <item>2. But the <hi>Woollen Manufacturers</hi> are not a few men; but a very great con<g ref="char:EOLhyphen"/>siderable part of the Nation; and they buy the <hi>Wooll</hi> to worke it into seve<g ref="char:EOLhyphen"/>rall <hi>Manufactures.</hi> Which first and last sets the whole Nation on worke, in severall imployments, in which the profit of the <hi>Wooll,</hi> is divided amongst all Tradesmen and Merchants.</item>
+                  <item>3. But if any one man, may buy <hi>Wooll,</hi> and sell it againe unwrought; then any, or all men may do the like; and then the <hi>Wooll</hi> will be Ingrossed into a few mens hands, to the great damage of the puplique good of all Tradesmen of this Nation, which is the true and proper nature of a <hi>Monopoly:</hi> as is in great part already begun amongst us, and will be more practised by men that have money, and given to selfe-interest, against the Nations good.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Secondly, Yet some may thinke it is against free Trade.</hi>
+               <list>
+                  <item>1. If by free Trade, be meant absolute free Trade, without any limitati<g ref="char:EOLhyphen"/>on, or qualification at all, but every man doe what he list. Then we may as well transport <hi>Corne, Wooll,</hi> and <hi>Fullers Earth,</hi> out of the Nation, as any other Commodity. And the Rich men may Ingrosse all the <hi>Corne,</hi> (and other things of livelyhood) into their owne hands; and no man say, why doe yee so. But its hoped, no man will desire to have, or use such a freedom.</item>
+                  <item>2. Then we humbly conceive, Free Trade must have its Interpretation, or limitation and bounds, which is the Nations good. Such freedome we plead for; and have already made it appeare, that our desires tend to it; and a<g ref="char:EOLhyphen"/>gainst those that hinder it with all their might. What hinderance is is to free Trade (for Tradesmen to have Freedome) to buy their Commodity at first and best hand; and thereby enabled to set on worke, so many poore of the Nation, and make good Commodities of it, which the Law binds them to doe: and also be able to bring it at reasonable prizes to the Market, and Mer<g ref="char:EOLhyphen"/>chants. And what but destruction to Free Trade is it, to suffer Ingrossers and Ingrossing of the chiefe Materialls of Trade.</item>
+               </list>
+            </p>
+            <p>Much might be added by more knowing experienced men; but these are for a taste. And are presented to the view and consideration of all that love and preferre the Nations good, before their own private Interest, and in speci<g ref="char:EOLhyphen"/>all to the faithfull Patriots of this Nation; in whose hands it is to redresse this grand evill, and from whom we expect it, and pray for it; so that in fine, the Ingrosser and Transporter of <hi>Wooll,</hi> is the cause of all the bad and deare Cloth made in this Nation.</p>
+            <closer>
+               <signed>
+                  <hi>By <hi>Edmond Rozer in the behalfe of the Clothiers of</hi> England.</hi>
+               </signed>
+               <dateline>
+                  <date>February the first. 1648.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:185551:2"/>
+            <pb facs="tcp:185551:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
